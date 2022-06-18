@@ -150,6 +150,10 @@ body {
 .portfolio-section {
     background-color: #FFF;
 }
+.invisible-title {
+    font-size: 16px;
+    color: #FFF;
+}
 .portfolio-section p {
     color: var(--secondary-text-color);
 }
