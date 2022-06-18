@@ -100,33 +100,28 @@ body {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
-    letter-spacing: 0.03em;
-}
+    }
 .main-section p {
     color: var(--secondary-text-color);
     font-size: 14px;
     line-height: 1.71;
-    letter-spacing: 0.03em;
-}
+ }
 .main-section h3 {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.42;
-    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .main-ourteam h3 {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.19;
-    letter-spacing: 0.03em;
 }
 .main-ourteam p {
     color: var(--secondary-text-color);
     font-size: 16px;
     line-height: 1.19;
-    letter-spacing: 0.03em;
-}
+    }
 
 /* Footer */
 .logo .studio {
@@ -173,8 +168,7 @@ body {
     font-size: 16px;
     line-height: 1.62;
     text-align: center;
-    letter-spacing: 0.03em;
-}
+   }
 .portfolio-text h2 {
     font-weight: 700;
     font-size: 18px;
@@ -184,5 +178,4 @@ body {
 .portfolio-text p {
     font-size: 16px;
     line-height: 1.88;
-    letter-spacing: 0.03em;
-}
+    }
